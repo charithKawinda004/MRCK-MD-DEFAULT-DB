@@ -1,22 +1,22 @@
 {
+  "BOT_NAME": "MRCK-MD",
+  "VERSION": "0.0.0",
+  "CREATED BY": "CHARITH KAWINDA",
   
-"BOT_NAME": "MRCK-MD",
-"VERSION": "0.0.0",
-"CREATED BY": "charith_kawinda",
-  
-"updates": {
-  "bot_owner_nb": "+94 75 401 5815",
-  "bot_Name": "ᴍʀᴄᴋ-ᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ™️",
-  "bot_owner": "🄲🄷🄰🅁¡🅃🄷…ᝰ.ᐟ",
-  "bot_thumbnail": "https://telegra.ph/file/a8f400de01d6c1ec4e742.jpg",
-  "bot_channel": "https://whatsapp.com/channel/0029VagXKQ0DJ6HB1qdaKh1i",
-  "bot_github_url": "https://github.com/sandungamage00001/MRCK-MD",
-  "bot_paircode": "https://aesthetic-lucia-mrck-md-by-charith-af712bfc.koyeb.app",
-  "bot_logo": "https://raw.githubusercontent.com/sandungamage00001/MRCK-MD-DEFAULT-DB/refs/heads/main/default.js/logo/bd1d853d-7d62-4b38-b30b-2afde89732c6.jpeg",
-  "T_bot_Name": "",
-  "T_bot_owner": "",
-  "T_bot_thumbnail": "",
-  "T_bot_channel": ""
-
-}
+  "updates": {
+    
+    "Creater": "94754015815",    
+    "Title": "ᴍʀᴄᴋ-ᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ™️",    
+    "Body": "🄲🄷🄰🅁¡🅃🄷…ᝰ.ᐟ",
+    "ThumbnailUrl": "https://telegra.ph/file/a8f400de01d6c1ec4e742.jpg",
+    "SourceUrl": "https://whatsapp.com/channel/0029VagXKQ0DJ6HB1qdaKh1i",
+    "GithubRepo": "https://github.com/sandungamage00001/MRCK-MD",
+    "PairSession": "https://aesthetic-lucia-mrck-md-by-charith-af712bfc.koyeb.app",
+    "Logo": "https://raw.githubusercontent.com/sandungamage00001/MRCK-MD-DEFAULT-DB/refs/heads/main/default.js/logo/bd1d853d-7d62-4b38-b30b-2afde89732c6.jpeg",
+    "T-itle": "",
+    "T-Body": "",
+    "T-ThumbnailUrl": "",
+    "T-SourceUrl": ""
+    
+  }
 }
