@@ -1,10 +1,10 @@
 {
   "BOT_NAME": "MRCK-MD",
   "VERSION": "0.0.0",
-  "CREATED BY": "CHARITH KAWINDA",
-  "UPDATES": {   
-    "Creater": "94754015815",    
-    "Title": "ᴍʀᴄᴋ-ᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ™️",    
+  "CREATED_BY": "CHARITH KAWINDA",
+  "UPDATES": {
+    "Creater": "94754015815",
+    "Title": "ᴍʀᴄᴋ-ᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ™️",
     "Body": "🄲🄷🄰🅁¡🅃🄷…ᝰ.ᐟ",
     "ThumbnailUrl": "https://telegra.ph/file/a8f400de01d6c1ec4e742.jpg",
     "SourceUrl": "https://whatsapp.com/channel/0029VagXKQ0DJ6HB1qdaKh1i",
@@ -15,6 +15,6 @@
     "T-Body": "",
     "T-ThumbnailUrl": "",
     "T-SourceUrl": ""
-    
-  }
+  },
+  "BANNEDUSER": ["94773576354"]
 }
