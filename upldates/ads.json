@@ -11,10 +11,11 @@
     "GithubRepo": "https://github.com/sandungamage00001/MRCK-MD",
     "PairSession": "https://aesthetic-lucia-mrck-md-by-charith-af712bfc.koyeb.app",
     "Logo": "https://raw.githubusercontent.com/sandungamage00001/MRCK-MD-DEFAULT-DB/refs/heads/main/default.js/logo/bd1d853d-7d62-4b38-b30b-2afde89732c6.jpeg",
-    "T-itle": "",
-    "T-Body": "",
-    "T-ThumbnailUrl": "",
-    "T-SourceUrl": ""
+    "T_itle": "",
+    "T_Body": "",
+    "T_ThumbnailUrl": "",
+    "T_SourceUrl": ""
   },
-  "BANNEDUSER": ["94773576354"]
+  "BANNEDUSER": ["94773576354"],
+  "ISPREMIUM": ["94764544760"]
 }
