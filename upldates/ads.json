@@ -1,21 +1,29 @@
 {
   "BOT_NAME": "MRCK-MD",
-  "VISION": "0.0.0",
-  "CREATED_BY": "CHARITH KAWINDA",
-  "UPDATES": {
-    "Creater": "94762695098",
-    "Title": "ᴍʀᴄᴋ-ᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ™️",
-    "Body": "🄲🄷🄰🅁¡🅃🄷…ᝰ.ᐟ",
-    "ThumbnailUrl": "https://i.imgur.com/A8PxCkK_d.webp?maxwidth=760&fidelity=grand",
-    "SourceUrl": "https://whatsapp.com/channel/0029VagXKQ0DJ6HB1qdaKh1i",
-    "GithubRepo": "https://github.com/sandungamage00001/MRCK-MD",
-    "PairSession": "https://aesthetic-lucia-mrck-md-by-charith-af712bfc.koyeb.app",
-    "Logo": "https://raw.githubusercontent.com/sandungamage00001/MRCK-MD-DEFAULT-DB/refs/heads/main/default.js/logo/bd1d853d-7d62-4b38-b30b-2afde89732c6.jpeg",
-    "T_itle": "",
-    "T_Body": "",
-    "T_ThumbnailUrl": "",
-    "T_SourceUrl": ""
+  "VERSION": "0.0.0",
+  "DESC": "This project is created using node.js",
+  
+  "data_botOwn": {
+    "developer": "94762695098",
+    "specialCoOwners": ["94762695098", "94754015815"],
+    "detectOwn": ["👨🏻‍💻", "🦹🏻‍♂️"],
+    "BANNEDUSER": ["94773576354"],
+    "ISPREMIUM": ["94764544760"]
   },
-  "BANNEDUSER": ["94773576354"],
-  "ISPREMIUM": ["94764544760"]
-}
+  "data_botMedia": {
+    "logo": "https://i.imgur.com/5IIqGfA.jpeg",
+    "thumbnailUrl": "https://i.imgur.com/5IIqGfA.jpeg",
+    "sourceUrl": "https://whatsapp.com/channel/0029VagXKQ0DJ6HB1qdaKh1i",
+    "title": "ᴍʀᴄᴋ-ᴍᴅ ᴍɪɴɪ-ᴡᴀ",
+    "body": "ᴀ ꜱɪᴍᴘʟᴇ ᴡᴀ-ʙᴏᴛ"
+  },
+  "data_botSelf": {
+    "gitHubRepo": "https://github.com/sandungamage00001/MRCK-MD",
+    "pairWeb": "https://pair-web-mg5s.onrender.com"
+  },
+  "VerifyId": {
+    "Key": "120363418442419341",
+    "groupJid": "https://chat.whatsapp.com/Fl4Q8jTsj4z8zTWxHHwpYv"
+    "supportIds": ["", ""]
+  } 
+};
