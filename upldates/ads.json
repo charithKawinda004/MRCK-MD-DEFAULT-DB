@@ -22,7 +22,7 @@
     "pairWeb": "https://pair-web-code.onrender.com/"
   },
   "VerifyId": {
-    "require": false,
+    "require": true,
     "Key": "120363417291472164",
     "groupJid": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
     "supportIds": ["", ""],
