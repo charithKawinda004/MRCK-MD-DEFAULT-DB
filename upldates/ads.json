@@ -15,17 +15,22 @@
     "thumbnailUrl": "https://raw.githubusercontent.com/charithKawinda004/MRCK-MD-DEFAULT-DB/refs/heads/main/default.js/logo/IMG_9383.jpeg",
     "sourceUrl": "https://whatsapp.com/channel/0029VbAWuLpBqbr6JFSLbC0b",
     "title": "ᴍʀᴄᴋ-ᴍᴅ ᴍɪɴɪ-ᴡᴀ",
-    "body": "ᴀ ꜱɪᴍᴘʟᴇ ᴡᴀ-ʙᴏᴛ"
+    "body": "ᴀ ꜱɪᴍᴘʟᴇ ᴡᴀ-ʙᴏᴛ",
+    "newsletterJid": "120363419758018259@newsletter",
+    "newsletterName": "A L O N E <3  V I B E S 🧚🏻"
   },
   "data_botSelf": {
     "gitHubRepo": "https://github.com/charithKawinda004/MRCK-MD",
     "pairWeb": "https://pair-web-code.onrender.com/"
   },
   "VerifyId": {
-    "require": true,
-    "Key": "120363417291472164",
-    "groupJid": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
-    "supportIds": ["", ""],
+    "GroupRequire": true,
+    "ChannelRequire": true,
+    "GroupJid": "120363417291472164",
+    "ChannelJid": "120363419758018259",
+    "GroupInvite": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
+    "ChannelInvite": "https://whatsapp.com/channel/0029VbAQl4Z2975Had3DuC42",
+    "BotIds": ["BAE5", "3EB0", "NEK0", "QUEENAMDI", "RGNK", "CYBER", "ZEROTWO", "QUEENELISA", "SUHAIL"],
     "Cooldown": "2"
   } 
 }
