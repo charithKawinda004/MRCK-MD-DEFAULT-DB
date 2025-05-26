@@ -1,14 +1,14 @@
 {
   "BOT_NAME": "MRCK-MD",
   "VERSION": "0.0.0",
+  "CODE_VERTION": "4.4.4",
   "DESC": "This project is created using node.js",
-  
   "data_botOwn": {
     "developer": "94762695098",
     "specialCoOwners": ["94754015815", "94754425815", "94764544760"],
     "detectOwn": ["👨🏻‍💻", "🦹🏻‍♂️"],
-    "BANNEDUSER": ["94773576354"],
-    "ISPREMIUM": ["94764544760"]
+    "bannedUser": ["94773576354"],
+    "premiumUser": ["94764544760"]
   },
   "data_botMedia": {
     "logo": "https://raw.githubusercontent.com/charithKawinda004/MRCK-MD-DEFAULT-DB/refs/heads/main/default.js/logo/bd1d853d-7d62-4b38-b30b-2afde89732c6.jpeg",
@@ -17,20 +17,21 @@
     "title": "ᴍʀᴄᴋ-ᴍᴅ ᴍɪɴɪ-ᴡᴀ",
     "body": "ᴀ ꜱɪᴍᴘʟᴇ ᴡᴀ-ʙᴏᴛ",
     "newsletterJid": "120363419758018259@newsletter",
-    "newsletterName": "A L O N E <3  V I B E S 🧚🏻"
+    "newsletterName": "ᴍʀᴄᴋ-ᴍᴅ ᴏꜰꜰɪᴄɪᴀʟ ™️ 🧚🏻",
+    "thumbnailBuff": ""
   },
   "data_botSelf": {
     "gitHubRepo": "https://github.com/charithKawinda004/MRCK-MD",
     "pairWeb": "https://pair-web-code.onrender.com/"
   },
-  "VerifyId": {
-    "GroupRequire": true,
-    "ChannelRequire": true,
-    "GroupJid": "120363417291472164",
-    "ChannelJid": "120363419758018259",
-    "GroupInvite": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
-    "ChannelInvite": "https://whatsapp.com/channel/0029VbAQl4Z2975Had3DuC42",
-    "BotIds": ["BAE5", "3EB0", "NEK0", "QUEENAMDI", "RGNK", "CYBER", "ZEROTWO", "QUEENELISA", "SUHAIL"],
-    "Cooldown": "2"
-  } 
+  "verifyId": {
+    "groupRequire": false,
+    "channelRequire": false,
+    "groupJid": "120363417291472164",
+    "channelJid": "120363419758018259",
+    "groupInvite": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
+    "channelInvite": "https://whatsapp.com/channel/0029VbAQl4Z2975Had3DuC42",
+    "botIds": ["BAE5", "3EB0", "NEK0", "QUEENAMDI", "RGNK", "CYBER", "ZEROTWO", "QUEENELISA", "SUHAIL"],
+    "cooldown": "2"
+  }
 }
