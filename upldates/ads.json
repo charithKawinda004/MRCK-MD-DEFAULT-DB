@@ -25,8 +25,8 @@
     "pairWeb": "https://pair-web-code.onrender.com/"
   },
   "verifyId": {
-    "groupRequire": false,
-    "channelRequire": false,
+    "groupRequire": true,
+    "channelRequire": true,
     "groupJid": "120363417291472164",
     "channelJid": "120363419758018259",
     "groupInvite": "https://chat.whatsapp.com/FpJDLDwPSpD8VNglUW1Bvt",
