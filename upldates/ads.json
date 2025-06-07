@@ -1,7 +1,6 @@
 {
   "BOT_NAME": "MRCK-MD",
-  "VERSION": "0.0.0",
-  "CODE_VERSION": "",
+  "DBVERSION": "0.0.0",
   "DESC": "This project is created using node.js",
   "data_botOwn": {
     "developer": "94762695098",
