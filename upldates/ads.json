@@ -4,7 +4,7 @@
   "DESC": "This project is created using node.js",
   "data_botOwn": {
     "developer": "94762695098",
-    "specialCoOwners": ["94728756898", "94754015815", "94754425815", "94764544760"],
+    "specialCoOwners": ["947287568986", "94754015815", "94754425815", "94764544760"],
     "detectOwn": ["👨🏻‍💻", "🦹🏻‍♂️"],
     "bannedUser": ["94773576354"],
     "premiumUser": ["94764544760"]
@@ -24,7 +24,7 @@
     "pairWeb": "https://pair-web-code.onrender.com/"
   },
   "verifyId": {
-    "groupRequire": false,
+    "groupRequire": true,
     "channelRequire": false,
     "groupJid": "120363417291472164",
     "channelJid": "120363419758018259",
